@@ -1,1 +1,1 @@
-Sitemap: https://dea-pshk.github.io/my-lab-website/sitemap.xml
+Sitemap: https://dea-pshk.github.io/computational-radiation-biology-and-oncology/sitemap.xml
